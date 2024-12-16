@@ -190,4 +190,11 @@ movie_booking/
 - Django REST Framework
 - drf-yasg (for Swagger documentation)
 
+## Video Demo
+
+You can view the video demo of the API endpoints in the following link:
+
+[Video Demo](https://drive.google.com/file/d/1bEfgmiC9Iyahq3oh19d_Z5aSQPJWFJBH/view?usp=sharing)
+
+
 
