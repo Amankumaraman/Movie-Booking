@@ -30,8 +30,8 @@ This project implements a Django-based backend system for managing dynamic movie
 1. **Clone the Repository**:
 
    ```bash
-   git clone <repository_url>
-   cd <repository_folder>
+   git clone <https://github.com/Amankumaraman/Movie-Booking/>
+   cd <movie_booking>
    ```
 
 2. **Set Up the Environment**:
